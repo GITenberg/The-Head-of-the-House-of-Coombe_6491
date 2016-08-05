@@ -1,0 +1,29 @@
+_repo: The-Head-of-the-House-of-Coombe_6491
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: 'Sequel: Robin.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Head of the House of Coombe
+url: http://www.gutenberg.org/ebooks/6491
